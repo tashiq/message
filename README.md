@@ -1,3 +1,3 @@
 # peanut
-page link: https://tashiq.github.io/message/
+page link: https://message-nonresponsive.netlify.app/
 
