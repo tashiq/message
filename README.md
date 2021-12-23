@@ -1,3 +1,3 @@
 # peanut
-#https://love-birdd.netlify.app/
+page link: https://tashiq.github.io/message/
 
